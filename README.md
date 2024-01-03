@@ -1,5 +1,4 @@
 # Olá, sou João Pedro 👋
-
 ## Sobre Mim
 🚀 Desenvolvedor especializado em **React** e **Expo**, com paixão por **Inteligência Artificial** e experiência em **Firebase**.
 
@@ -20,8 +19,6 @@ Aqui estão alguns dos meus projetos(em breve mais projetos publicos):
 
 ## Contato e Redes Sociais
 - 📧 Email: [jpedroooo40oo0@gmail.com](mailto:jpedroooo40oo0@gmail.com)
-
-
 ---
 
 *"Na interseção da tecnologia e criatividade, encontro a verdadeira inovação. Cada linha de código é um passo em direção ao futuro"*
