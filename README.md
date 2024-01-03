@@ -10,7 +10,7 @@
 ## Projetos Destacados
 Aqui estão alguns dos meus projetos(em breve mais projetos publicos):
 
-1. **Jornada Tech** Uma landing page de curso de programação - [Ir para o projeto](jornadatech) -
+1. **Jornada Tech** Uma landing page de curso de programação - [jornadatech](https://github.com/Jeipiix/jornadatech) -
 
 
 ## Habilidades e Tecnologias
